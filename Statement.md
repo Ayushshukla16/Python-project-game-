@@ -38,4 +38,5 @@ Step 10: End the application.
 - Interface: Command Line Interface (CLI) / Terminal.
 
 6. CONCLUSION
+
 This project successfully demonstrates the use of fundamental Python programming concepts such as loops, conditional branching, and module integration to create an interactive and bug-free game experience.
